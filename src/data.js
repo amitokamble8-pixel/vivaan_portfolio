@@ -330,11 +330,6 @@ export const VOLUNTEER = {
 
 export const SPORTS = [
   {
-    icon: "⚙️",
-    name: "Robotics & Engineering",
-    desc: "Independent robotics, coding, and engineering projects since 2016, spanning Raspberry Pi, mechanics, machine learning, UAVs, and mechanical systems. Highlights: GPS-denied autonomous fixed-wing UAV, DIY six-speed LEGO engine, stabilogram, National Robotics League, Young Creators League, World Series of Innovation.",
-  },
-  {
     icon: "⚽",
     name: "Competitive Football",
     desc: "Playing since 2019 and one of my biggest commitments outside academics. School captain after two years as vice-captain, continuing to play competitively at academy level. Highlights: Reliance Foundation Youth League selection, Mohammedan Sporting academy U17, selection for the 2026 Academy World Cup.",
@@ -345,13 +340,8 @@ export const SPORTS = [
     desc: "Five years of drumming and three years in the school band, with performances at school festivals and individual concerts including events organised by the Calcutta School of Music. Trinity: Grades 1–3 Merit, Grade 4 Distinction.",
   },
   {
-    icon: "🎤",
-    name: "Debate & MUN",
-    desc: "Public speaking, debate, and Model United Nations since middle school, competing at national-level events and representing the school against teams from across India. Highlights: LMC MUN Special Mention & 1st Place, Thomas Jefferson US Consulate Debate 1st Place, iLead Debate 1st Place, Head Delegate.",
-  },
-  {
     icon: "🔬",
-    name: "Science & Academic Competitions",
+    name: "Academic Competitions",
     desc: "Academic and technology competitions combining scientific thinking, problem-solving, and creativity. Highlights: Cambridge Upper Secondary Science Competition Silver Award, Plaksha Young Tech Scholars, Goethe-Institut Pune Youth Leadership Congress website award.",
   },
   {
